@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L 445project_hub-rescue:TUSB2077A-tusb2077a U103
+L 445project_hub-rescue:TUSB2077A-tusb2077a-445project_hub-rescue U103
 U 1 1 616349AA
 P 4100 3900
 F 0 "U103" H 4000 4050 50  0000 C CNN
@@ -93,7 +93,7 @@ F 3 "" H 2900 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 445project_hub-rescue:USB_B-Connector J102
+L 445project_hub-rescue:USB_B-Connector-445project_hub-rescue J102
 U 1 1 6163E889
 P 1300 2500
 F 0 "J102" H 1357 2967 50  0000 C CNN
@@ -318,7 +318,7 @@ $EndComp
 Wire Wire Line
 	4100 2150 3950 2150
 Wire Wire Line
-	3950 2150 2950 2150
+	3950 2150 3400 2150
 Wire Wire Line
 	2950 2150 2950 1350
 Connection ~ 3950 2150
@@ -562,7 +562,7 @@ U 1 1 616AD648
 P 1000 3900
 F 0 "J101" H 1057 4217 50  0000 C CNN
 F 1 "Barrel_Jack_Switch" H 1057 4126 50  0000 C CNN
-F 2 "Connector_BarrelJack:BarrelJack_CUI_PJ-102AH_Horizontal" H 1050 3860 50  0001 C CNN
+F 2 "Connector_BarrelJack:BarrelJack_Horizontal" H 1050 3860 50  0001 C CNN
 F 3 "~" H 1050 3860 50  0001 C CNN
 	1    1000 3900
 	1    0    0    -1  
@@ -1337,11 +1337,6 @@ F 3 "" H 2950 4850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3550 3300 3300 3300
-Wire Wire Line
-	3300 3300 3300 3700
-Connection ~ 3300 3700
-Wire Wire Line
 	3550 5000 2950 5000
 Connection ~ 2950 5000
 Wire Wire Line
@@ -1555,4 +1550,11 @@ F 3 "" H 10300 2250 50  0001 C CNN
 	1    10300 2250
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	3550 3300 3400 3300
+Wire Wire Line
+	3400 3300 3400 2150
+Connection ~ 3400 2150
+Wire Wire Line
+	3400 2150 2950 2150
 $EndSCHEMATC

@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# 445project_hub-rescue_MCP2221AxSL-Interface_USB
+# 445project_hub-rescue_MCP2221AxSL-Interface_USB-445project_hub-rescue
 #
-DEF 445project_hub-rescue_MCP2221AxSL-Interface_USB U 0 20 Y Y 1 F N
+DEF 445project_hub-rescue_MCP2221AxSL-Interface_USB-445project_hub-rescue U 0 20 Y Y 1 F N
 F0 "U" -300 650 50 H V C CNN
-F1 "445project_hub-rescue_MCP2221AxSL-Interface_USB" 500 650 50 H V C CNN
+F1 "445project_hub-rescue_MCP2221AxSL-Interface_USB-445project_hub-rescue" 500 650 50 H V C CNN
 F2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" 0 1000 50 H I C CNN
 F3 "" 0 700 50 H I C CNN
 $FPLIST
@@ -30,11 +30,11 @@ X SDA 9 400 500 100 L 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# 445project_hub-rescue_TUSB2077A-tusb2077a
+# 445project_hub-rescue_TUSB2077A-tusb2077a-445project_hub-rescue
 #
-DEF 445project_hub-rescue_TUSB2077A-tusb2077a U 0 40 Y Y 1 F N
+DEF 445project_hub-rescue_TUSB2077A-tusb2077a-445project_hub-rescue U 0 40 Y Y 1 F N
 F0 "U" 0 2200 50 H V C CNN
-F1 "445project_hub-rescue_TUSB2077A-tusb2077a" 0 2100 50 H V C CNN
+F1 "445project_hub-rescue_TUSB2077A-tusb2077a-445project_hub-rescue" 0 2100 50 H V C CNN
 F2 "Package_QFP:LQFP-48_7x7mm_P0.5mm" 0 -2150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -90,11 +90,11 @@ X VCC 9 -150 1750 100 D 50 50 0 0 U
 ENDDRAW
 ENDDEF
 #
-# 445project_hub-rescue_USB_B-Connector
+# 445project_hub-rescue_USB_B-Connector-445project_hub-rescue
 #
-DEF 445project_hub-rescue_USB_B-Connector J 0 40 Y Y 1 F N
+DEF 445project_hub-rescue_USB_B-Connector-445project_hub-rescue J 0 40 Y Y 1 F N
 F0 "J" -200 450 50 H V L CNN
-F1 "445project_hub-rescue_USB_B-Connector" -200 350 50 H V L CNN
+F1 "445project_hub-rescue_USB_B-Connector-445project_hub-rescue" -200 350 50 H V L CNN
 F2 "" 150 -50 50 H I C CNN
 F3 "" 150 -50 50 H I C CNN
 $FPLIST

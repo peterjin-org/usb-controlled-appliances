@@ -14,9 +14,11 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L 445project_hub-rescue:MCP2221AxSL-Interface_USB U201
+L 445project_hub-rescue:MCP2221AxSL-Interface_USB-445project_hub-rescue U201
 U 1 1 617887C4
 P 2200 2300
+AR Path="/617887C4" Ref="U201"  Part="1" 
+AR Path="/61787B10/617887C4" Ref="U201"  Part="1" 
 F 0 "U201" H 2200 1611 50  0000 C CNN
 F 1 "MCP2221AxSL" H 2200 1520 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 2200 3300 50  0001 C CNN
@@ -344,9 +346,11 @@ Wire Wire Line
 	2000 2900 2200 2900
 Connection ~ 2200 2900
 $Comp
-L 445project_hub-rescue:MCP2221AxSL-Interface_USB U202
+L 445project_hub-rescue:MCP2221AxSL-Interface_USB-445project_hub-rescue U202
 U 1 1 617C8E19
 P 2900 5800
+AR Path="/617C8E19" Ref="U202"  Part="1" 
+AR Path="/61787B10/617C8E19" Ref="U202"  Part="1" 
 F 0 "U202" H 2900 5111 50  0000 C CNN
 F 1 "MCP2221AxSL" H 2900 5020 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 2900 6800 50  0001 C CNN
@@ -692,9 +696,11 @@ Wire Wire Line
 	1600 2950 2000 2950
 Connection ~ 1600 2950
 $Comp
-L 445project_hub-rescue:MCP2221AxSL-Interface_USB U203
+L 445project_hub-rescue:MCP2221AxSL-Interface_USB-445project_hub-rescue U203
 U 1 1 6183F789
 P 6900 3900
+AR Path="/6183F789" Ref="U203"  Part="1" 
+AR Path="/61787B10/6183F789" Ref="U203"  Part="1" 
 F 0 "U203" H 6900 3211 50  0000 C CNN
 F 1 "MCP2221AxSL" H 6900 3120 50  0000 C CNN
 F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 6900 4900 50  0001 C CNN
