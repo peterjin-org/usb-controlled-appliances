@@ -4189,6 +4189,9 @@
     (path "/00000000-0000-0000-0000-000061787b10/00000000-0000-0000-0000-000061914cdb/00000000-0000-0000-0000-000061899112"
       (reference "#PWR0307") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-000061787b10/00000000-0000-0000-0000-000061914cdb/2f8e7157-63df-4c9b-a467-b0282c310ebf"
+      (reference "#PWR0308") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000061787b10/00000000-0000-0000-0000-000061914cdb/00000000-0000-0000-0000-00006185356b"
       (reference "BT301") (unit 1) (value "Battery_Cell") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
@@ -4284,6 +4287,9 @@
     )
     (path "/00000000-0000-0000-0000-000061787b10/00000000-0000-0000-0000-000061914cdb/00000000-0000-0000-0000-000061887393"
       (reference "D301") (unit 1) (value "LED") (footprint "LED_THT:LED_D5.0mm")
+    )
+    (path "/00000000-0000-0000-0000-000061787b10/00000000-0000-0000-0000-000061914cdb/88acddcf-670c-414e-9267-e813cc215c3a"
+      (reference "D302") (unit 1) (value "BAT54S") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/00000000-0000-0000-0000-0000617b17e1"
       (reference "F101") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_Bourns_MF-RHT200")
@@ -4495,6 +4501,9 @@
     (path "/00000000-0000-0000-0000-000061787b10/00000000-0000-0000-0000-000061914cdb/00000000-0000-0000-0000-000061886be8"
       (reference "R301") (unit 1) (value "220") (footprint "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
     )
+    (path "/00000000-0000-0000-0000-000061787b10/00000000-0000-0000-0000-000061914cdb/3d288cd0-a43b-454e-8080-1b50472de865"
+      (reference "R302") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
     (path "/00000000-0000-0000-0000-000061ad879e"
       (reference "SW101") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H7.3mm")
     )
@@ -4533,6 +4542,9 @@
     )
     (path "/00000000-0000-0000-0000-000061787b10/00000000-0000-0000-0000-000061914cdb/00000000-0000-0000-0000-0000617e19b7"
       (reference "U303") (unit 1) (value "DS2482-100") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
+    )
+    (path "/00000000-0000-0000-0000-000061787b10/00000000-0000-0000-0000-000061914cdb/58552f29-f9ff-489d-ba51-60353d457a1d"
+      (reference "U304") (unit 1) (value "DS18B20") (footprint "Package_TO_SOT_THT:TO-92_Inline")
     )
     (path "/00000000-0000-0000-0000-00006173bb61"
       (reference "Y101") (unit 1) (value "6MHz") (footprint "Crystal:Crystal_HC49-U_Vertical")

@@ -1,4 +1,4 @@
-20900526490163798
+20902280135530916
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58589,6 +58589,13 @@ Yellow 5381 Series LED
 0
 2
 2
+Library
+009155003541006
+
+
+0
+5
+5
 Library
 USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal
 USB 2.0 Type C Receptacle, GCT, 16P, top mounted, horizontal, 5A: https://gct.co/files/drawings/usb4105.pdf
